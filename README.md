@@ -33,4 +33,4 @@ Machine learning models used:
 
  ## Research Paper
 
-📄 [Download Full Paper](RansomGuard_ML_Research_Paper.pdf)
+📄 [Download Full Paper](research_paper.pdf)
